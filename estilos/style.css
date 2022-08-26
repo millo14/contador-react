@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #333;
+    color: snow;
+    text-align: center;
+}
+
+.menor{
+    color: tomato;
+}
+
+.mayor{
+    color: limegreen;
+}
+button{
+    margin: 15px;
+}
